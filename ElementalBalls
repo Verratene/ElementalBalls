@@ -1,0 +1,11 @@
+--------------------------------------
+Made by Das Verratene
+--------------------------------------
+
+
+
+
+set GD_Weap_Pistol.A_Weapons_Legendary.Pistol_Maliwan_5_ThunderballFists:WeaponPartListCollectionDefinition_104 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_Pistol.elemental.Pistol_Elemental_Slag',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Pistol.elemental.Pistol_Elemental_Corrosive',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Pistol.elemental.Pistol_Elemental_Fire',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),
+(Part=WeaponPartDefinition'GD_Weap_Pistol.elemental.Pistol_Elemental_Shock',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))
+
+
